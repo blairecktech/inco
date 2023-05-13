@@ -1,4 +1,5 @@
 {
+  "shouldOverrideUrlLoading": true,
   "offers": [
     {
       "modes": [3],
